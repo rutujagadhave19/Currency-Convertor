@@ -2,6 +2,8 @@ A responsive Currency Converter web app built with React and styled using Tailwi
 
 ![image_alt](https://github.com/rutujagadhave19/Currency-Convertor/blob/018e7e734236cd5bb8d9153ad93d7da0216cd332/Screenshot%202024-12-29%20142135.png)
 
+Conversion of currency from USD to INR
 ![image_alt](https://github.com/rutujagadhave19/Currency-Convertor/blob/149749f03a4233a051ce84a08063b46c2b9ade48/Screenshot%202024-12-29%20142201.png)
 
+Swap Function
 ![image_alt](https://github.com/rutujagadhave19/Currency-Convertor/blob/149749f03a4233a051ce84a08063b46c2b9ade48/Screenshot%202024-12-29%20142236.png)
